@@ -1,0 +1,6 @@
+# data/pets.yml
+pets:
+  - name: "Garfield"
+    category: "Cat"
+  - name: "Odie"
+    category: "Dog"
